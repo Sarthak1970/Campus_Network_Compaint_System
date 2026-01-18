@@ -1,7 +1,7 @@
 # Hostel_Allotment_System
 
 # Team Members
-1.23DCS021 Raghav Sharma
+1. 23DCS021 Raghav Sharma
 
 2. 23DCS022 Sahil Thakur
  
